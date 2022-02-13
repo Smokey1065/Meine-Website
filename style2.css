@@ -1,0 +1,14 @@
+.caution{
+    background: linear-gradient(
+        50deg, 
+        blue,
+        lightgreen
+    );
+    padding: 40px;
+    color: white;
+    text-align: center;
+}
+
+#resultArea{
+    color: aqua;
+}
